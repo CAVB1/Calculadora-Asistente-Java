@@ -438,6 +438,7 @@ public class Ventana extends javax.swing.JFrame {
     private javax.swing.JButton btnless1;
     private javax.swing.JButton btntimes;
     private javax.swing.JTextField txtPan;
+    private javax.swing.JButton btnSalir;
     // End of variables declaration//GEN-END:variables
 private boolean point = false;
 
