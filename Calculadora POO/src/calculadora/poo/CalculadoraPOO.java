@@ -18,6 +18,7 @@ public class CalculadoraPOO {
         // TODO code application logic here
         Ventana v=new Ventana();
         v.show(true);
+      //Ventanita
     }
     
 }
